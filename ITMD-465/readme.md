@@ -3,7 +3,7 @@
 <h2>ITMD-465-Fall 2018</h2>
 
 <h2>Academic Interests</h2>
-!![alternativetext](/Arthur's photo.jpg)
+![alternativetext](/Arthur's photo.jpg)
 <h3>Hi, My major is Information Technology with a specalization with Web Development.</h3>
 <h3> I basically enjoy working with hardware for a computer system and knowing how the operating system works.</h3>
 <h3>Github Lab</h3>
