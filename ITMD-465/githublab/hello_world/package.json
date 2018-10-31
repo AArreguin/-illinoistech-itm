@@ -1,0 +1,11 @@
+{
+  "name": "arthur-arreguin",
+  "version": "1.0.0",
+  "description": "Project lab 4 that contains a basic node js hello world app",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Arthur Arrreguin",
+  "license": "ISC"
+}
